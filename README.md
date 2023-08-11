@@ -18,20 +18,21 @@ The user can enter the name of his car (<code>Make, Model</code>), the year of m
 
 ## Example usage:
 
- Enter name car like 'Porsche 911 Turbo S' : Porsche 911 Turbo S
- Enter year yor model: 2020
- enter mileage: 1250
- Are your car is new? no
- ==========
- info about your car: 
-   name - porsche, model - 911turbos, year - 2020 
-   Rating - 4.85, reviews - 29.0 
-   Min - 19, max - 24 
-   mileage - 1250, status - used 
-   drivetrain - awd, fuel - gasoline
- ==========
-Price for your car: 161093.328125+-4030.68
-----------
+ - Enter name car like 'Porsche 911 Turbo S' : *Porsche 911 Turbo S*
+ - Enter year yor model: *2020*
+ - Enter mileage: *1250*
+ - Are your car is new? *no*
+
+ info about your car:
+
+- name - *porsche*, model - *911turbos*, year - *2020*
+- Rating - *4.85*, reviews - *29.0*
+- Min - *19*, max - *24* 
+- mileage - *1250*, status - *used* 
+- drivetrain - *awd*, fuel - *gasoline* 
+
+
+- Price for your car: *161093.32*+-4030.68 
 
 
 Data that I used - [Car dataset](https://www.kaggle.com/datasets/chancev/carsforsale)
